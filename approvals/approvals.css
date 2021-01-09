@@ -1,0 +1,24 @@
+/* approvals start */
+.approvals h2{
+  padding-top: 13%;
+  text-align: center;
+  font-size: 30px;
+}
+.approval-container{
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.approval-container ul{
+text-align: center;
+}
+.approval-container li{
+  display: inline-block;
+  width: 20%;
+  height: auto;
+  margin: 2%;
+}
+.approval-container li:hover{
+  outline: 2px #8b0000 solid;
+  outline-offset: -2px;
+}
+/* approvals start */

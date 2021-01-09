@@ -1,0 +1,38 @@
+/* form and contact start */
+.contact{
+  padding-top: 13%;
+}
+.contact-container{
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.contact-container li{
+  display: inline-block;
+  width: 40%;
+  margin: 2%;
+}
+input[type=text], input[type=number], input[type=email], select, textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid black;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+input[type=submit] {
+  background-color: #00008b;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+input[type=submit]:hover {
+  background-color: #00007b;
+}
+.map{
+  margin-bottom: 20px;
+}
+.text-size{
+  font-size: 1.5vw;
+}
+/* form and contact end */

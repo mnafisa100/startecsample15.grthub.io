@@ -1,0 +1,22 @@
+/* plant start*/
+ .ourstory {
+   margin-left: 5%;
+   margin-right: 5%;
+   font-size: 1.3vw;
+   padding-top: 200px;
+ }
+.plant-text li{
+}
+.plant-text ul{
+  list-style-type: disc;
+}
+.padding-50{
+  padding-top: 50px;
+}
+.plant-img-right{
+  margin-right: 50px;
+}
+.plant-img-left{
+  padding-left: 50px;
+}
+/* plant end*/
